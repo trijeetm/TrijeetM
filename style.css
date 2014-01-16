@@ -570,7 +570,7 @@ h6
 	color: #555 !important;
 }
 
-#col1 a.link, #accordion a
+#col1 a.link, #col2 a.link, #accordion a
 {
 	color: #417df5;
 	text-decoration: none;
@@ -581,7 +581,7 @@ h6
 	transition: all 0.5s;
 }
 
-#col1 a.link:hover, #accordion a:hover
+#col1 a.link:hover, #col2 a.link:hover, #accordion a:hover
 {
 	color: #333;
 }
