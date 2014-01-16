@@ -16,7 +16,7 @@ function fadeOut () {
 }
 
 function redirect (x) {
-	var	 wrap = document.getElementById('wrap');
+	var wrap = document.getElementById('wrap');
 	wrap.style.opacity = 0;
 	setTimeout(function () {
 		window.location.href = x;
